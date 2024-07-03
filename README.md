@@ -38,6 +38,8 @@ and on deeper level. _Note: The book is not talking directly about Ktor, however
 - [Ktor: REST API for Mobile](https://www.kodeco.com/7265034-ktor-rest-api-for-mobile) Using Ktor to create REST APIs for mobile. You’ll create a Ktor REST API server named TodoServer. This server will authenticate users and provide an API for users and TODOs.
 - [KtorEasy Medium articles:](https://medium.com/@math21/list/ktoreasy-210a142aecb1) Medium's article list explaining KtorEasy repository. Including explanation about its architecture, testing, deployment and backend monitoring with Grafana.
 - [An opinionated Kotlin backend service](https://medium.com/p/87f814e3dffd) Article list explains the scaffolding for Kotlin / Ktor based backend services
+- [How to Integrate Firebase Authentication with the Ktor Auth Feature](https://levelup.gitconnected.com/how-to-integrate-firebase-authentication-with-ktors-auth-feature-dc2c3893a0cc)
+
 ## Podcasts/Episodes
 
 ### Podcasts
@@ -90,13 +92,14 @@ and on deeper level. _Note: The book is not talking directly about Ktor, however
 
 - [Twitter: @JetBrainsKtor](https://twitter.com/jetbrainsktor)
 - [Reddit: /r/ktor](https://www.reddit.com/r/ktor/)
+- [ X ](https://twitter.com/i/communities/1711743225113760088) Unofficial Ktor community on X.
 
 ## Ktor Projects
 
 - [Kryptokrona API](https://github.com/kryptokrona/kryptokrona-api) For caching and processing data from the blockchain to provide faster access for services.
 - [Kodein](https://github.com/kosi-libs/Kodein) Kodein is a very simple and yet very useful dependency retrieval container. it is very easy to use and configure.
 - [Ktor OpenAPI Generator](https://github.com/papsign/Ktor-OpenAPI-Generator) Ktor OpenAPI/Swagger 3 Generator.
-- [Ktor OpenAPI Spec Generator](https://github.com/bkbnio/kompendium) Intended to be a non-invasive OpenAPI spec generator for Ktor APIs. By operating entirely through Ktor's plugin architecture, it allows you to incrementally document your API without requiring you to rip out and replace the amazing code you have already written.
+- [Kompendium](https://github.com/bkbnio/kompendium) Intended to be a non-invasive OpenAPI spec generator for Ktor APIs. By operating entirely through Ktor's plugin architecture, it allows you to incrementally document your API without requiring you to rip out and replace the amazing code you have already written.
 - [ktor-health-check](https://github.com/zensum/ktor-health-check) Simple, opinionated ktor health and readiness checks made for Kubernetes.
 - [Cohort](https://github.com/sksamuel/cohort) Spring Actuator style replacement for Ktor. Provides health checks for orchestrators like Kubernetes and management of logging, databases, JVM settings, memory and threads in production.
 - [SuspendApp with Ktor](https://github.com/arrow-kt/suspendapp#suspendapp-with-ktor) The module suspendapp-ktor provides a server constructor that lifts the Ktor ApplicationEngine in to a Resource, representing the Engine running an Application(i.e Netty) while supporting auto-reload.
@@ -107,7 +110,8 @@ and on deeper level. _Note: The book is not talking directly about Ktor, however
 - [Ktor OpenAPI Spec Generator](https://github.com/bkbnio/kompendium)
 - [Tegral OpenAPI](https://tegral.zoroark.guru/docs/modules/core/openapi/)
 - [Kryptokrona Kotlin SDK](https://github.com/kryptokrona/kryptokrona-kotlin-sdk) Kryptokrona SDK in Kotlin for building decentralized private communication and payment systems. Uses Ktor client library to fetch data from RPC.
-
+- [Extra Ktor Plugins](https://github.com/Flaxoos/extra-ktor-plugins) A library of extra plugins for multiplatform ktor server / client, including a plugin for Kafka, a flexible rate limiter plugin and a circuit breaker for ktor clients
+- [Kotlin GCP Pubsub](https://github.com/nomisRev/kotlin-gcp-pubsub) A Ktor Plugin for convenient, and easy integrating with to Google Cloud Platform PubSub, includes testing support and integration with KotlinX Serialization.
 
 ## Contributing
 
